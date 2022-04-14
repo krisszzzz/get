@@ -1,0 +1,4 @@
+discret: 0.009659007930474932 s
+quant: 0.01289 V
+charge time: 46.758 s
+finish time: 85.328 s
