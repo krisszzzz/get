@@ -103,4 +103,4 @@ with open("7-1_settings.txt", "w") as outfile:
     outfile.write("discret: {} s\nquant: {:.5f} V\n".format(finish_time / len(data), 3.3 / 256))
     outfile.write("charge time: {:.3f} s\nfinish time: {:.3f} s\n".format(charge_time, finish_time))
 
-print("discret: {} s\n quant: {:.5f} V\n charge time : {:.3f} s\n".format(finish_time / len(data), 3.3 / 256, charge_time))
+print("discret: {} s\n quant: {:.5f} V\n charge time : {:.3f} s\n".format(finish_time / len(data), 3.3 / 256, charge_time))``
